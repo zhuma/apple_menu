@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #080C18;
+}
+
+#div1 {
+    width: 100%;
+    position: absolute;
+    bottom: 10px;
+    text-align: center;
+}
